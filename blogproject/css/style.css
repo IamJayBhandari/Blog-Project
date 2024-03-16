@@ -1,0 +1,105 @@
+* {
+    font-family: cursive;
+}
+
+.navbar {
+    background-color: rgb(8, 110, 110);
+    padding: 10px;
+    top: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a {
+    margin-left: 10px;
+}
+
+body {
+    margin: 0;
+}
+
+.float-right {
+    float: right;
+}
+
+.btn {
+    padding: 5px 10px 5px 10px;
+    border-radius: 5%;
+}
+
+.btn-primary {
+    background-color: rgb(8, 2, 2);
+}
+
+.btn-warning {
+    background-color: rgb(5, 5, 1);
+}
+
+.r {
+    margin: 0;
+    padding-top: 10px;
+}
+
+.margin-top {
+    margin-top: 1px;
+    margin-bottom: 1%;
+}
+
+.row {
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col-2 {
+    width: 50%;
+}
+
+.col-3 {
+    width: 33.33%;
+}
+
+.col-4 {
+    width: 25%;
+    text-align: justify;
+}
+
+.mt-10px {
+    margin-top: 10px;
+}
+
+.card {
+    border: 1px solid rgb(193, 181, 181);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.b {
+    color: black;
+}
+
+.textc {
+    color: blue;
+    text-align: center;
+}
+
+.footer {
+    background-color: rgb(12, 12, 12);
+    padding: 5px;
+}
+
+.textwhite {
+    color: white;
+}
